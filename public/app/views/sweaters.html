@@ -21,6 +21,8 @@
 					<p>{{ sweater.holiday }}</p>
 					<p>{{ sweater.gender }}</p>
 					<a ng-href="{{ sweater.link }}" target="_blank" class="btn btn-primary btn-lg">Buy Now for ${{ sweater.price }}</a>
+					<br>
+					<a ng-href="/sweaters/delete/{{ sweater._id }}" ng-show="isLoggedIn()" class="btn btn-danger btn-lg">Delete</a>
 				</div>
 			</div>
 		</div>

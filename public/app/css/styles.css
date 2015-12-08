@@ -23,6 +23,10 @@ body {
 	background-size: cover;
 }
 
+.section-2 {
+	min-height: 600px;
+}
+
 .title {
 	font-size: 290px;
 	color: #ff0000;
@@ -64,4 +68,8 @@ body {
 
 .back {
 	transform: rotateY(180deg);
+}
+
+.btn {
+	margin-bottom: 15px;
 }
