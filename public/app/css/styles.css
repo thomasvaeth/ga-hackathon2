@@ -1,5 +1,4 @@
 .section-1,
-.section-2,
 .section-3 {
 	height: 600px;
 }
@@ -15,4 +14,41 @@
 	color: #ff0000;
 	mix-blend-mode: screen;
 	padding-top: 100px;
+}
+
+.well {
+	text-align: center;
+	background-color: #FFFFFF;
+	border: none;
+	box-shadow: none;
+	margin-bottom: 100px;
+	transition: 0.6s;
+	transform-style: preserve-3d;
+}
+
+.well, 
+.front, 
+.back {
+	margin-top: 25px;
+	height: 398px;
+	width: 320px;
+}
+
+.well-container:hover .well {
+	transform: rotateY(180deg);
+}
+
+.front, 
+.back {
+	backface-visibility: hidden;
+	position: absolute;
+}
+
+.front {
+	z-index: 2;
+	transform: rotateY(0deg);
+}
+
+.back {
+	transform: rotateY(180deg);
 }

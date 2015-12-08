@@ -1,0 +1,195 @@
+[
+{
+	"name": "Romantic Sasquatch Sweater",
+	"gender": "Men",
+	"holiday": "Christmas",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/men_s-romantic-sasquatch-christmas-sweater_2.jpg",
+	"price": "54.95",
+	"link": "http://www.tipsyelves.com/mens-romantic-sasquatch-sweater"
+},
+{
+	"name": "Crazy Cat Man Sweater",
+	"gender": "Men",
+	"holiday": "Christmas",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/men_s-crazy-cat-man-christmas-sweater.jpg",
+	"price": "54.95",
+	"link": "http://www.tipsyelves.com/mens-crazy-cat-christmas-sweater"
+},
+{
+	"name": "Gingerbread Christmas Sweater",
+	"gender": "Men",
+	"holiday": "Christmas",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/men_s-gingerbread-men-ninja-sweater.jpg",
+	"price": "54.95",
+	"link": "http://www.tipsyelves.com/mens-gingerbread-men-christmas-sweater"
+},
+{
+	"name": "Happy Birthday Jesus Sweater",
+	"gender": "Men",
+	"holiday": "Christmas",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/men_s-happy-birthday-jesus-christmas-sweater_2.jpg",
+	"price": "54.95",
+	"link": "http://www.tipsyelves.com/jesus-christmas-sweater"
+},
+{
+	"name": "Hanukkah Sweater",
+	"gender": "Women",
+	"holiday": "Hanukkah",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/w/o/women_s_hanukkah_sweater_5.jpg",
+	"price": "69.95",
+	"link": "http://www.tipsyelves.com/womens-ugly-hanukkah-sweater"
+},
+{
+	"name": "Night Before Hanukkah Sweater",
+	"gender": "Women",
+	"holiday": "Hanukkah",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/w/o/women_s_the_night_before_movie_hanukkah_sweater_1.jpg",
+	"price": "49.95",
+	"link": "http://www.tipsyelves.com/womens-the-night-before-hanukkah-sweater"
+},
+{
+	"name": "Happy Llammaka Sweater",
+	"gender": "Women",
+	"holiday": "Hanukkah",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/w/o/women_s_llama_hanukkah_sweater_1.jpg",
+	"price": "54.95",
+	"link": "http://www.tipsyelves.com/womens-hapy-llammaka-sweater-4286"
+},
+{
+	"name": "Naughty and Nice Two Person Sweater",
+	"gender": "Men, Women",
+	"holiday": "Christmas",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/w/two_person_christmas_sweater_3.jpg",
+	"price": "89.95",
+	"link": "http://www.tipsyelves.com/two-person-sweater"
+},
+{
+	"name": "Ugly Panel Sweater",
+	"gender": "Women",
+	"holiday": "Christmas",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/w/o/womens_funky_christmas_sweater.jpg",
+	"price": "59.95",
+	"link": "http://www.tipsyelves.com/womens-funky-christmas-sweater"
+}
+,
+{
+	"name": "Santa Unicorn Sweater",
+	"gender": "Women",
+	"holiday": "Christmas",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/w/o/women_s_santa_unicorn_sweater_2.jpg",
+	"price": "79.95",
+	"link": "http://www.tipsyelves.com/womens-unicorn-christmas-sweater"
+},
+{
+	"name": "Gingerbread Nightmare Sweater",
+	"gender": "Women",
+	"holiday": "Christmas",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/w/o/women_s_green_gingerbread_man_christmas_sweater_1.jpg",
+	"price": "54.95",
+	"link": "http://www.tipsyelves.com/womens-gingerbread-sweater"
+},
+{
+	"name": "T-Rex Sweater",
+	"gender": "Women",
+	"holiday": "Christmas",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/w/o/women_s_dinosaur_christmas_sweater_1.jpg",
+	"price": "54.95",
+	"link": "http://www.tipsyelves.com/womens-t-rex-christmas-sweater"
+},
+{
+	"name": "Tipsy Skulls Sweater",
+	"gender": "Women",
+	"holiday": "Halloween",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/w/o/women_s_halloween_skeleton_sweater_2.jpg",
+	"price": "59.95",
+	"link": "http://www.tipsyelves.com/womens-halloween-sweater"
+},
+{
+	"name": "Breakdancing Skeleton Sweater",
+	"gender": "Women",
+	"holiday": "Halloween",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/w/o/women_s_skeleton_halloween_sweater_1.jpg",
+	"price": "79.95",
+	"link": "http://www.tipsyelves.com/womens-dancing-skeleton-sweater"
+},
+{
+	"name": "Breakdancing Skeleton Sweater",
+	"gender": "Men",
+	"holiday": "Halloween",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/men_s_skeleton_halloween_sweater_1.jpg",
+	"price": "59.95",
+	"link": "http://www.tipsyelves.com/mens-dancing-skeleton-sweater"
+},
+{
+	"name": "Tipsy Skulls Sweater",
+	"gender": "Men",
+	"holiday": "Halloween",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/men_s_skulls_halloween_sweater_1.jpg",
+	"price": "59.95",
+	"link": "http://www.tipsyelves.com/mens-halloween-sweater"
+},
+{
+	"name": "Night Before Hanukkah Sweater",
+	"gender": "Men",
+	"holiday": "Hanukkah",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/men_s_the_night_before_movie_hanukkah_sweater_1.jpg",
+	"price": "69.95",
+	"link": "http://www.tipsyelves.com/the-night-before-hanukkah-sweater"
+},
+{
+	"name": "Censored Santa Sweater",
+	"gender": "Men",
+	"holiday": "Christmas",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/men_s-censored-santa-christmas-sweater_2.jpg",
+	"price": "34.95",
+	"link": "http://www.tipsyelves.com/mens-naked-santa-sweater"
+},
+{
+	"name": "Stage 5 Clinger Sloth Christmas Sweater",
+	"gender": "Men",
+	"holiday": "Christmas",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/men_s-ugly-sloth-christmas-sweater.jpg",
+	"price": "54.95",
+	"link": "http://www.tipsyelves.com/mens-sloth-sweater"
+},
+{
+	"name": "Snowman Nose Thief Sweater",
+	"gender": "Men",
+	"holiday": "Christmas",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/men_s-upside-down-snowman-christmas-sweater_2.jpg",
+	"price": "69.95",
+	"link": "http://www.tipsyelves.com/snowman-nose-thief-sweater"
+},
+{
+	"name": "Breakdancing Skeleton Sweater",
+	"gender": "Men",
+	"holiday": "Halloween",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/men_s_skeleton_halloween_sweater_1.jpg",
+	"price": "59.95",
+	"link": "http://www.tipsyelves.com/mens-dancing-skeleton-sweater"
+},
+{
+	"name": "Feliz Navidog Sweater",
+	"gender": "Men",
+	"holiday": "Christmas",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/men_s-dog-sweater.jpg",
+	"price": "54.95",
+	"link": "http://www.tipsyelves.com/mens-dog-christmas-sweater"
+},
+{
+	"name": "Challah Sweater",
+	"gender": "Men",
+	"holiday": "Hanukkah",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/men_s_challah_sweater.jpg",
+	"price": "69.95",
+	"link": "http://www.tipsyelves.com/mens-challah-hanukkah-sweater"
+},
+{
+	"name": "Happy Llamakkah Sweater",
+	"gender": "Men",
+	"holiday": "Hanukkah",
+	"picture": "http://www.tipsyelves.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/men_s-llama-hanukkah-sweater.jpg",
+	"price": "54.95",
+	"link": "http://www.tipsyelves.com/mens-happy-llammaka-sweater-4126"
+}
+]

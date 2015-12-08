@@ -3,8 +3,19 @@
 </div>
 
 <div class="section-2">
-	<div class="well" ng-repeat="sweater in sweaters">
-		{{ sweater.name }}
+	<input type="text" class="form-control" placeholder="Search" ng-model="search">
+
+	<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4" ng-repeat="sweater in sweaters | filter: search">
+		<div class="well-container">
+			<div class="well">
+				<div class="front">
+					<img ng-src="{{ sweater.picture }}" class="img-responsive center-block">
+				</div>
+				<div class="back">
+				{{sweater.name}}
+				</div>
+			</div>
+		</div>
 	</div>
 </div>
 
