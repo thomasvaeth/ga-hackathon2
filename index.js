@@ -18,7 +18,7 @@ app.use(bodyParser.urlencoded({extended: false}));
 var path = require('path');
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.use('/api/sweaters', expressJWT({secret: secret}));
+//app.use('/api/sweaters', expressJWT({secret: secret}));
 app.use('/api/users', expressJWT({secret: secret})
 .unless({path: ['/api/users'], method: 'post'}));
 

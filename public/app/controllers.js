@@ -29,17 +29,6 @@ angular.module('SweaterCtrls', ['SweaterServices'])
 			$location.path('/');
 		}
 }])
-.controller('SweaterShowCtrl', [
-	'$scope', 
-	'$routeParams', 
-	'Sweater',
-	function($scope, $routeParams, Sweater) {
-		Sweater.get({id:$routeParams.id}, function success(data) {
-			$scope.sweater = data;
-		}, function error (data) {
-			console.log(data);
-		});
-}])
 .controller('SweaterDeleteCtrl', [
 	'$location', 
 	'$routeParams', 
@@ -67,8 +56,8 @@ angular.module('SweaterCtrls', ['SweaterServices'])
 			email: "",
 			password: ""
 		};
-		$scope.actionName = "Login";
-		$scope.userAction = function() {
+
+		$scope.adminLogin = function() {
 			$http.post('/api/auth', $scope.user).then(function success(res) {
 				Auth.saveToken(res.data.token);
 				$location.path('/');
@@ -76,28 +65,4 @@ angular.module('SweaterCtrls', ['SweaterServices'])
 				console.log(res.data);
 			});
 		};
-}])
-.controller('SignupCtrl', [
-	'$scope',
-	'$http',
-	'$location',
-	'Auth',
-	function($scope, $http, $location, Auth) {
-		$scope.user = {
-			email: "",
-			password: ""
-		};
-		$scope.actionName = "Signup";
-		$scope.userAction = function() {
-			$http.post('/api/users', $scope.user).then(function success(res) {
-				$http.post('/api/auth', $scope.user).then(function success(res) {
-					Auth.saveToken(res.data.token);
-					$location.path('/');
-				}, function error (res) {
-					console.log(res.data);
-				});
-			}, function error (res) {
-				console.log(res.data);
-			});
-		}
 }]);

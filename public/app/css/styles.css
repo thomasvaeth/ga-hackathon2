@@ -1,0 +1,18 @@
+.section-1,
+.section-2,
+.section-3 {
+	height: 600px;
+}
+
+.section-1 {
+	background: url(../images/christmas.jpg) no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+
+.title {
+	font-size: 290px;
+	color: #ff0000;
+	mix-blend-mode: screen;
+	padding-top: 100px;
+}

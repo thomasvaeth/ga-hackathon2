@@ -6,9 +6,6 @@ app.config(['$routeProvider', '$locationProvider', function($routeProvider, $loc
 		templateUrl: 'app/views/sweaters.html',
 		controller:  'SweaterCtrl'
 	})
-	.when('/about', {
-		templateUrl: 'app/views/about.html'
-	})
 	.when('/sweaters/new', {
 		templateUrl: 'app/views/new.html',
 		controller: 'SweaterNewCtrl'
@@ -17,17 +14,9 @@ app.config(['$routeProvider', '$locationProvider', function($routeProvider, $loc
 		templateUrl: 'app/views/show.html',
 		controller: 'SweaterDeleteCtrl'
 	})
-	.when('/sweaters/:id', {
-		templateUrl: 'app/views/show.html',
-		controller: 'SweaterShowCtrl'
-	})
 	.when('/login', {
-		templateUrl: 'app/views/userLogin.html',
+		templateUrl: 'app/views/adminLogin.html',
 		controller: 'LoginCtrl'
-	})
-	.when('/signup', {
-		templateUrl: 'app/views/userLogin.html',
-		controller: 'SignupCtrl'
 	})
 	.otherwise({
 		templateUrl: 'app/views/404.html'
