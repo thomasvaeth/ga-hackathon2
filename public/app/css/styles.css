@@ -1,3 +1,15 @@
+h1,
+h2,
+h3,
+h4 {
+	font-family: 'Orienta', sans-serif;
+}
+
+html,
+body {
+	font-family: 'Lato', sans-serif;
+}
+
 .section-1,
 .search-row,
 .well,
