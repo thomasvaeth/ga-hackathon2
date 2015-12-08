@@ -1,12 +1,14 @@
 .section-1,
-.section-3 {
-	height: 600px;
+.search-row,
+.well,
+.fourohfour {
+	text-align: center;
 }
 
 .section-1 {
+	height: 600px;
 	background: url(../images/christmas.jpg) no-repeat;
 	background-size: cover;
-	text-align: center;
 }
 
 .title {
@@ -17,7 +19,6 @@
 }
 
 .well {
-	text-align: center;
 	background-color: #FFFFFF;
 	border: none;
 	box-shadow: none;

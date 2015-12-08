@@ -1,9 +1,14 @@
 <div class="section-1">
-	<h1 class="title">Swtrs</h1>
+	<h1 class="title">Swtrs4sl</h1>
 </div>
 
 <div class="section-2">
-	<input type="text" class="form-control" placeholder="Search" ng-model="search">
+	<div class="row search-row">
+		<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xs-offset-3 col-sm-offset-3 col-md-offset-3 col-lg-offset-3">
+			<h2>Search for Seasonal Sweaters</h2>
+			<input type="text" class="form-control" placeholder="Example: Jesus" ng-model="search">
+		</div>
+	</div>
 
 	<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4" ng-repeat="sweater in sweaters | filter: search">
 		<div class="well-container">
@@ -12,13 +17,12 @@
 					<img ng-src="{{ sweater.picture }}" class="img-responsive center-block">
 				</div>
 				<div class="back">
-				{{sweater.name}}
+					<h4>{{ sweater.name }}</h4>
+					<p>{{ sweater.holiday }}</p>
+					<p>{{ sweater.gender }}</p>
+					<a ng-href="{{ sweater.link }}" target="_blank" class="btn btn-primary btn-lg">Buy Now for ${{ sweater.price }}</a>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
-
-<div class="section-3">
-	<a href="/about">About</a>
 </div>
