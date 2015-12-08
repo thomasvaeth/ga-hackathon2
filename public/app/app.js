@@ -14,7 +14,7 @@ app.config(['$routeProvider', '$locationProvider', function($routeProvider, $loc
 		templateUrl: 'app/views/sweaters.html',
 		controller: 'SweaterDeleteCtrl'
 	})
-	.when('/login', {
+	.when('/admin', {
 		templateUrl: 'app/views/adminLogin.html',
 		controller: 'LoginCtrl'
 	})
