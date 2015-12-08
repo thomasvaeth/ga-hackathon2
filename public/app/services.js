@@ -1,6 +1,6 @@
 angular.module('SweaterServices', ['ngResource'])
 .factory('Sweater', ['$resource', function($resource) {
-	return $resource('http://localhost:3000/api/sweaters/:id');
+	return $resource('/api/sweaters/:id');
 }])
 .factory('Auth', ['$window', function($window) {
 	return {

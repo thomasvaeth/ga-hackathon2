@@ -9,7 +9,7 @@ var secret = 'hldysswtrs';
 
 var Sweater = require('./models/sweater');
 var User = require('./models/user');
-mongoose.connect('mongodb://localhost/sweaters');
+mongoose.connect(process.env.MONGOLAB_URI || 'mongodb://localhost/sweaters');
 
 var bodyParser = require('body-parser');
 app.use(bodyParser.json());
