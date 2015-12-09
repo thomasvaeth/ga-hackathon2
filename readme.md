@@ -11,6 +11,6 @@ The assignment was to build something holiday related within a day while using A
 * JavaScript
 * Google Fonts
 * Snowstorm.js
-​
+
 ### Unsolved Problems
 * Make the add sweaters page private unless signed in (currently accessible by knowing URL, but no one can posted unless logged in).
