@@ -1,5 +1,5 @@
 {
 	"undefined": "mongodb://localhost/sweaters",
 	"dev": "mongodb://localhost/sweaters",
-	"prod": "mongodb://localhost/sweaters"
+	"prod": process.env.MONGOLAB_URI
 }
