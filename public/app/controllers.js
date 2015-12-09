@@ -32,6 +32,7 @@ angular.module('SweaterCtrls', ['SweaterServices'])
 		$scope.createSweater = function() {
 			var params = {
 				name: $scope.name,
+				gender: $scope.gender,
 				holiday: $scope.holiday,
 				picture: $scope.picture,
 				price: $scope.price,
