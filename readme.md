@@ -1,4 +1,4 @@
-# AngularJS Hackathon
+# [AngularJS Hackathon](http://swtrwthr.herokuapp.com/)
 ### About
 The assignment was to build something holiday related within a day while using AngularJS. It was built by [Agustin Bautista](https://github.com/abautist), [Thomas Vaeth](https://github.com/thomasvaeth), and [Chyi Wang](https://github.com/chyiyenwang). We made a holiday sweater page that linked to external stores. We also added an admin page to add and delete sweaters.
 ​
